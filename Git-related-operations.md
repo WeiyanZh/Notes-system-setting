@@ -1,4 +1,4 @@
-# Git-related Operarions
+# Git-related Operations
 I use VSCode with Git.  
 ## Issues:
 1, [VSCode "please clean your repository working tree before checkout."](https://stackoverflow.com/questions/51817479/vscode-please-clean-your-repository-working-tree-before-checkout)    
