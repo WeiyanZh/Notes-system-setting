@@ -17,5 +17,4 @@ Read https://vhdlwhiz.com/free-vhdl-simulator-alternatives/
    copy `export LM_LICENSE_FILE=/path to license folder/LR-084372_License.dat:$PATH` to your `~/.profile`
 
 
-4. Run the vsim script to start ModelSim by running command:
-    `~/intelFPGA/*.*/questa_fse/bin/vsim`
+4. start ModelSim by running command: `vsim`
