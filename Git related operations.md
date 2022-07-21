@@ -14,11 +14,11 @@ Solution: **File --> Preferences --> Setting --> searching for ` openDiffOnClick
 
 3, [Branch management](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management)    
 Create branch dev: `git branch dev`  
-Switch to branch dev: `git checkout dev` or `git switch d  ev`  
+Switch to branch dev: `git checkout dev` or `git switch dev`  
 Create and switch to branch dev: `git checkout -b dev`
 Checkout branchs: `git branch`  
 Merge branch dev to matser: `git merge dev`  
 Push local master to remote master: `git push origin master`  
-Delete branch dev if you want: `git branch -d dev` 
+Delete branch dev if you want: `git branch -d dev`   
 In VSCode, if you are in dev branch and you want to merge dev to master: **push --> checkout to master --> branch --> merge branch --> select dev --> push**
 
